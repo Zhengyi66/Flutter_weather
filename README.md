@@ -1,6 +1,8 @@
 # flutter_weather
 
-A new Flutter application.
+Flutter练习项目，效果图如下：
+
+![天气](https://github.com/Zhengyi66/Flutter_weather/tree/master/assets/images/启动.gif)
 
 ## Getting Started
 
