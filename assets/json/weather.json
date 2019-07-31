@@ -1,0 +1,379 @@
+{
+  "status": 0,
+  "msg": "ok",
+  "result": {
+    "city": "杭州",
+    "cityid": 382,
+    "citycode": "101210101",
+    "date": "2019-07-26",
+    "week": "星期五",
+    "weather": "阴",
+    "temp": "33",
+    "temphigh": "37",
+    "templow": "27",
+    "img": "2",
+    "humidity": "67",
+    "pressure": "999",
+    "windspeed": "2.3",
+    "winddirect": "西南风",
+    "windpower": "2级",
+    "updatetime": "2019-07-26 09:20:00",
+    "index": [
+      {
+        "iname": "空调指数",
+        "ivalue": "长时间开启",
+        "detail": "您会感到非常热，长时间开启制冷空调可能会帮您找回舒适的感觉。"
+      },
+      {
+        "iname": "运动指数",
+        "ivalue": "较不宜",
+        "detail": "有降水，推荐您在室内进行低强度运动；若坚持户外运动，须注意选择避雨防滑并携带雨具。"
+      },
+      {
+        "iname": "紫外线指数",
+        "ivalue": "中等",
+        "detail": "属中等强度紫外线辐射天气，外出时建议涂擦SPF高于15、PA+的防晒护肤品，戴帽子、太阳镜。"
+      },
+      {
+        "iname": "感冒指数",
+        "ivalue": "少发",
+        "detail": "各项气象条件适宜，发生感冒机率较低。但请避免长期处于空调房间中，以防感冒。"
+      },
+      {
+        "iname": "洗车指数",
+        "ivalue": "不宜",
+        "detail": "不宜洗车，未来24小时内有雨，如果在此期间洗车，雨水和路上的泥水可能会再次弄脏您的爱车。"
+      },
+      {
+        "iname": "空气污染扩散指数",
+        "ivalue": "良",
+        "detail": "气象条件有利于空气污染物稀释、扩散和清除，可在室外正常活动。"
+      },
+      {
+        "iname": "穿衣指数",
+        "ivalue": "炎热",
+        "detail": "天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。"
+      }
+    ],
+    "aqi": {
+      "so2": "5",
+      "so224": "",
+      "no2": "32",
+      "no224": "",
+      "co": "0.700",
+      "co24": "",
+      "o3": "36",
+      "o38": "",
+      "o324": "",
+      "pm10": "54",
+      "pm1024": "",
+      "pm2_5": "26",
+      "pm2_524": "",
+      "iso2": "1",
+      "ino2": "16",
+      "ico": "7",
+      "io3": "11",
+      "io38": "",
+      "ipm10": "52",
+      "ipm2_5": "37",
+      "aqi": "52",
+      "primarypollutant": "PM10",
+      "quality": "良",
+      "timepoint": "2019-07-26 08:00:00",
+      "aqiinfo": {
+        "level": "二级",
+        "color": "#FFFF00",
+        "affect": "空气质量可接受，但某些污染物可能对极少数异常敏感人群健康有较弱影响",
+        "measure": "极少数异常敏感人群应减少户外活动"
+      }
+    },
+    "daily": [
+      {
+        "date": "2019-07-26",
+        "week": "星期五",
+        "sunrise": "05:13",
+        "sunset": "18:58",
+        "night": {
+          "weather": "多云",
+          "templow": "27",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        },
+        "day": {
+          "weather": "雷阵雨",
+          "temphigh": "37",
+          "img": "4",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        }
+      },
+      {
+        "date": "2019-07-27",
+        "week": "星期六",
+        "sunrise": "05:13",
+        "sunset": "18:57",
+        "night": {
+          "weather": "多云",
+          "templow": "27",
+          "img": "1",
+          "winddirect": "南风",
+          "windpower": "3-5级"
+        },
+        "day": {
+          "weather": "多云",
+          "temphigh": "37",
+          "img": "1",
+          "winddirect": "东南风",
+          "windpower": "3-5级"
+        }
+      },
+      {
+        "date": "2019-07-28",
+        "week": "星期日",
+        "sunrise": "05:14",
+        "sunset": "18:57",
+        "night": {
+          "weather": "晴",
+          "templow": "27",
+          "img": "0",
+          "winddirect": "南风",
+          "windpower": "3-5级"
+        },
+        "day": {
+          "weather": "晴",
+          "temphigh": "37",
+          "img": "0",
+          "winddirect": "南风",
+          "windpower": "3-5级"
+        }
+      },
+      {
+        "date": "2019-07-29",
+        "week": "星期一",
+        "sunrise": "05:15",
+        "sunset": "18:56",
+        "night": {
+          "weather": "多云",
+          "templow": "27",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        },
+        "day": {
+          "weather": "晴",
+          "temphigh": "36",
+          "img": "0",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        }
+      },
+      {
+        "date": "2019-07-30",
+        "week": "星期二",
+        "sunrise": "05:15",
+        "sunset": "18:55",
+        "night": {
+          "weather": "多云",
+          "templow": "27",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        },
+        "day": {
+          "weather": "多云",
+          "temphigh": "37",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        }
+      },
+      {
+        "date": "2019-07-31",
+        "week": "星期三",
+        "sunrise": "05:16",
+        "sunset": "18:55",
+        "night": {
+          "weather": "多云",
+          "templow": "26",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        },
+        "day": {
+          "weather": "多云",
+          "temphigh": "37",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        }
+      },
+      {
+        "date": "2019-08-01",
+        "week": "星期四",
+        "sunrise": "05:16",
+        "sunset": "18:54",
+        "night": {
+          "weather": "多云",
+          "templow": "25",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        },
+        "day": {
+          "weather": "多云",
+          "temphigh": "37",
+          "img": "1",
+          "winddirect": "持续无风向",
+          "windpower": "微风"
+        }
+      }
+    ],
+    "hourly": [
+      {
+        "time": "9:00",
+        "weather": "多云",
+        "temp": "32",
+        "img": "1"
+      },
+      {
+        "time": "10:00",
+        "weather": "多云",
+        "temp": "34",
+        "img": "1"
+      },
+      {
+        "time": "11:00",
+        "weather": "多云",
+        "temp": "35",
+        "img": "1"
+      },
+      {
+        "time": "12:00",
+        "weather": "多云",
+        "temp": "36",
+        "img": "1"
+      },
+      {
+        "time": "13:00",
+        "weather": "阴",
+        "temp": "37",
+        "img": "2"
+      },
+      {
+        "time": "14:00",
+        "weather": "雷阵雨",
+        "temp": "34",
+        "img": "4"
+      },
+      {
+        "time": "15:00",
+        "weather": "雷阵雨",
+        "temp": "33",
+        "img": "4"
+      },
+      {
+        "time": "16:00",
+        "weather": "阴",
+        "temp": "35",
+        "img": "2"
+      },
+      {
+        "time": "17:00",
+        "weather": "阴",
+        "temp": "35",
+        "img": "2"
+      },
+      {
+        "time": "18:00",
+        "weather": "阴",
+        "temp": "34",
+        "img": "2"
+      },
+      {
+        "time": "19:00",
+        "weather": "阴",
+        "temp": "33",
+        "img": "2"
+      },
+      {
+        "time": "20:00",
+        "weather": "阴",
+        "temp": "32",
+        "img": "2"
+      },
+      {
+        "time": "21:00",
+        "weather": "阴",
+        "temp": "31",
+        "img": "2"
+      },
+      {
+        "time": "22:00",
+        "weather": "阴",
+        "temp": "30",
+        "img": "2"
+      },
+      {
+        "time": "23:00",
+        "weather": "阴",
+        "temp": "29",
+        "img": "2"
+      },
+      {
+        "time": "0:00",
+        "weather": "阴",
+        "temp": "29",
+        "img": "2"
+      },
+      {
+        "time": "1:00",
+        "weather": "阴",
+        "temp": "29",
+        "img": "2"
+      },
+      {
+        "time": "2:00",
+        "weather": "阴",
+        "temp": "29",
+        "img": "2"
+      },
+      {
+        "time": "3:00",
+        "weather": "多云",
+        "temp": "29",
+        "img": "1"
+      },
+      {
+        "time": "4:00",
+        "weather": "多云",
+        "temp": "28",
+        "img": "1"
+      },
+      {
+        "time": "5:00",
+        "weather": "晴",
+        "temp": "27",
+        "img": "0"
+      },
+      {
+        "time": "6:00",
+        "weather": "多云",
+        "temp": "28",
+        "img": "1"
+      },
+      {
+        "time": "7:00",
+        "weather": "多云",
+        "temp": "30",
+        "img": "1"
+      },
+      {
+        "time": "8:00",
+        "weather": "阴",
+        "temp": "31",
+        "img": "2"
+      }
+    ]
+  }
+}
